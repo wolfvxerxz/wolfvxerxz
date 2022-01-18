@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wolfvxerxz
-- 🌱 I’m currently learning ...JS/Angular
+- � I’m currently learning ...JS/Angular and sharpening my HTML/CSS skills
 
 
 <!---
