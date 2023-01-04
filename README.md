@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wolfvxerxz
-- � I’m currently learning JS/Angular and sharpening my HTML/CSS skills
-
+- 👋 Hi, I’m @wolfvxerxz Junior Frontend Developer & Medior Email Developer.
+- � I’m currently learning JS/Angular.
+- 
 
 <!---
 wolfvxerxz/wolfvxerxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
