@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wolfvxerxz Junior Frontend Developer & Medior Email Developer.
-- � I’m currently learning JS/Angular.
+- 👋 Hi, I’m @wolfvxerxz Frontend Developer & Email Developer.
+- � I’m currently learning UI/UX.
 - 🕷️ This user loves spiders.
 
 <!---
