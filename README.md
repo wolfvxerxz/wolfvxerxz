@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wolfvxerxz Frontend Developer & Email Developer.
+- 👋 Hi, I’m Vuk, a Frontend Developer & Email Developer.
 - � I’m currently learning UI/UX.
 - 🕷️ This user loves spiders.
 
